@@ -31,3 +31,6 @@ Os resultados da análise serão compilados em um relatório escrito no Google D
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias e sugestões.
+
+## Link do video do projto
+https://www.youtube.com/watch?v=jmq5TCR1GkA&t=10s
