@@ -24,13 +24,11 @@ O projeto foi desenvolvido em Google Colab, com o uso de Python para análise de
   <li>Siga os passos no notebook para realizar a análise e gerar as visualizações.</li>
 </ol>
 
-## Relatório Final
-Os resultados da análise serão compilados em um relatório escrito no Google Docs, onde as descobertas serão discutidas à luz da hipótese inicial. Gráficos e análises estatísticas serão incluídos para ilustrar os insights encontrados.
-
-(EM ANDAMENTO...)
-
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias e sugestões.
+
+## Relatório Final
+https://docs.google.com/document/d/1ZxVE4zHL4XGFp6HUG7bPAHaYaM-I2WOwrzEk7dnnLEM/edit?usp=sharing
 
 ## Link do video do projto
 https://www.youtube.com/watch?v=jmq5TCR1GkA&t=10s
